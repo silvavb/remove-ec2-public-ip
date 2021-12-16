@@ -6,6 +6,6 @@ Run the following command to give shell script the necessary permissions: chmod 
 
 Usage:
 
-./remove-public-ip.sh <instance-id>
+```./remove-public-ip.sh <instance-id>```
 
 Please make sure you have AWS CLI installed, set up with your user with the right permissions, and using the region you have the EC2 Instance you want to remove public IP.
